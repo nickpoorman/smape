@@ -9,6 +9,8 @@ Symmetric mean absolute percentage error (SMAPE).
 
 Calculate the Mean absolute percentage error for a dataset.
 
+The range of this function is (0, 200).
+
 # example
 
 ```javascript
@@ -28,7 +30,7 @@ var dataset = [{
 }];
 
 smape(dataset)
-// 17.55115979430067
+// 19.735399185285672
 ```
 
 
