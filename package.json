@@ -1,6 +1,6 @@
 {
   "name": "smape",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Symmetric mean absolute percentage error (SMAPE)",
   "main": "index.js",
   "scripts": {
