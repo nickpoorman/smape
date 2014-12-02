@@ -7,7 +7,7 @@ Symmetric mean absolute percentage error (SMAPE).
 # usage
 ## smape(dataset)
 
-Calculate the Mean absolute percentage error for a dataset.
+Calculate the Symmetric mean absolute percentage error for a dataset.
 
 The range of this function is (0, 200).
 
