@@ -1,0 +1,23 @@
+{
+  "name": "smape",
+  "version": "0.0.1",
+  "description": "Symmetric mean absolute percentage error (SMAPE)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nickpoorman/smape.git"
+  },
+  "author": "Nick Poorman",
+  "bugs": {
+    "url": "https://github.com/nickpoorman/smape/issues"
+  },
+  "homepage": "https://github.com/nickpoorman/smape",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  }
+}
