@@ -2,6 +2,8 @@
 
 Symmetric mean absolute percentage error (SMAPE).
 
+[![wercker status](https://app.wercker.com/status/af805a6296c610b6113f4780610c6e72/s "wercker status")](https://app.wercker.com/project/bykey/af805a6296c610b6113f4780610c6e72)
+
 # usage
 ## smape(dataset)
 
